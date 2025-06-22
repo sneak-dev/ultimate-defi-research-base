@@ -50,7 +50,7 @@
 - [Awesome Blogs](https://start.me/w/nPprJD)
 - [Repository of 500 web3 reports](https://drive.google.com/drive/u/2/mobile/folders/1oyGnZE2ce5t6MZ1ytMLDr5OKuQAOkEdR?pli=1)
 
-Also, [here is a study by Arxiv on how to read and parse Arxiv studies](https://arxiv.org/pdf/1806.09525.pdf) & [guide to reading academic research papers!](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
+Also, [here is a study by Arxiv on how to read and parse Arxiv studies](https://arxiv.org/pdf/1806.09525.pdf).
 
 Also x2, [here’s a handy checklist for anyone who wants to contribute to Arxiv!](https://towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2)
 
